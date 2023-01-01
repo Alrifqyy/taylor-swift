@@ -56,7 +56,7 @@ let All_song = [
       singer: "Taylor Swift"
     },
     {
-      name: "It's Nice To Have A Friend (Official Audio)",
+      name: "It's Nice To Have A Friend",
       path: "song/Taylor Swift - It’s Nice To Have A Friend (Official Audio).mp3",
       img: "image/Lover.jpg",
       singer: "Taylor Swift"
