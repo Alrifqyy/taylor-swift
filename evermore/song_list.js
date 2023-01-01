@@ -54,7 +54,13 @@ let All_song = [
       path: "song/Taylor Swift - dorothea.mp3",
       img: "image/taylor-swift-evermore-tgj.jpeg",
       singer: "Taylor Swift"
-    }
+    },
+    {
+      name: "Willow",
+      path: "song/Taylor Swift - willow.mp3",
+      img: "image/taylor-swift-evermore-tgj.jpeg",
+      singer: "Taylor Swift"
+    
  ];
  
  
